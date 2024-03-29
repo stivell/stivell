@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+A practicing professional with extensive experience in Systems Integration, Software Architecture, analysis, and solution design. Vast experience using SDLC processes and Agile methodologies. Apply a wide range of tools and technologies within multiple platforms to deliver enterprise solutions for web and distributed applications. Developed applications for the Financial, Treasury, Government, and Telecommunications industries.
+![image](https://github.com/stivell/stivell/assets/17278625/aea10b61-186d-4679-b260-4b4a907bfecb)
+
+
 <!--
 **stivell/stivell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
